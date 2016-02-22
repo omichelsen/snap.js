@@ -1,0 +1,19 @@
+{
+  "name": "snap.js",
+  "version": "2.0.0",
+  "description": "A Library for creating beautiful mobile shelfs in Javascript (Facebook and Path style side menus)",
+  "main": "snap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omichelsen/snap.js.git"
+  },
+  "author": "Jacob Kelley <jakie8@gmail.com>, Ole B. Michelsen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omichelsen/snap.js/issues"
+  },
+  "homepage": "https://github.com/omichelsen/snap.js#readme"
+}
