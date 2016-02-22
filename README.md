@@ -1,4 +1,7 @@
+__This is a fork converting the code to ES6!!__
+
 # Snap.js
+
 A Library for creating beautiful mobile shelfs in Javascript
 
 <a href="http://www.screenr.com/embed/0EJ7" target="_blank">View Video Preview</a>
